@@ -10,9 +10,9 @@ class TestConfig(BaseConfig):
 
 
 class DevConfig(BaseConfig):
-    DB_URI = "***"
-    DB_USER = "***"
-    DB_PWD = "***"
+    DB_URI = "********"
+    DB_USER = "********"
+    DB_PWD = "********"
 
 
 class ProConfig(BaseConfig):
